@@ -3,3 +3,6 @@
 ``` kotlin
 val myVal:String = "Hello, world!"
 ```
+- [ ] QA performed
+- [ ] Unit test updated
+- [ ] Build running
